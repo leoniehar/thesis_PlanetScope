@@ -49,7 +49,7 @@ the folder includes the following scripts:
 
 >> Variable_importance_rf (predictors importance per model) 
 
-## FOLDER: "sciprts_mappingofresults"
+## FOLDER: "scripts_mapping of results"
 - includes scripts of "reduced" models with less predictors that were trained to make the models less complex for mapping
 -  sub folder of response variable include
 > #### new_models
