@@ -27,6 +27,12 @@ the folder includes the following scripts:
 > additionatly, at the beginning of a script there is a DISCLAIMER comment that gives information 
   if script is the nicely, extensive commented version and at what script to look if not 
 
+### 20_read_RData 
+- plots for evaluation of results 
+
+### 20_over_accuarcy
+- extract all performance metrics of the 10_rf_XX models into a .csv table
+
 ## FOLDER: "Processing model QGIS" 
 - includes model which was used to extract the pixel values of the PlanetScope images
 - applied to each on the mosaics separatly 
