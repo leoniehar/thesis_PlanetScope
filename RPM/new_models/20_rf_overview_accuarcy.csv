@@ -1,0 +1,7 @@
+"";"X";"variant";"r2";"rmse";"nrmse";"estimation.variable";"predictors";"comment.variant"
+"1";1;"ALB";0,342069921152071;4,24522129986024;30,0280905383571;"RPM";"evi, savi, dvi, gndvi, grvi, sr_nirr";"perExplrtr"
+"2";1;"all";0,513665496952418;6,98845582027634;42,7079929280004;"RPM";"evi, savi, dvi, gndvi, grvi, sr_nirr";"all"
+"3";1;"J";0,680202109770345;7,66252908480148;26,8367429587777;"RPM";"evi, savi, dvi, gndvi, grvi, sr_nirr";"perMonth"
+"4";2;"HAI";0,748078254958569;4,71577373347263;28,8295220438623;"RPM";"evi, savi, dvi, gndvi, grvi, sr_nirr";"perExplrtr"
+"5";2;"S";0,403913434938911;4,36707709396656;34,2108847252024;"RPM";"evi, savi, dvi, gndvi, grvi, sr_nirr";"perMonth"
+"6";3;"SCH";0,340837357776793;9,2423549799457;29,1751379857791;"RPM";"evi, savi, dvi, gndvi, grvi, sr_nirr";"perExplrtr"
