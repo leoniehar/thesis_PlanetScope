@@ -1,0 +1,7 @@
+"";"X";"variant";"r2";"rmse";"nrmse";"estimation.variable";"predictors";"comment.variant"
+"1";1;"ALB";0,314134868290505;67,4282949962596;38,9756326400498;"biomass_interpolated";"evi, savi, dvi, gndvi, grvi, sr_nirr";"perExplrtr"
+"2";1;"all";0,393624093223538;81,5237492663783;49,719995801844;"biomass_interpolated";"evi, savi, dvi, gndvi, grvi, sr_nirr";"all"
+"3";1;"J";0,666837016206839;74,0608384790287;29,5102518806449;"biomass_interpolated";"evi, savi, dvi, gndvi, grvi, sr_nirr";"perMonth"
+"4";2;"HAI";0,684331750394235;59,8529987730959;34,837450657272;"biomass_interpolated";"evi, savi, dvi, gndvi, grvi, sr_nirr";"perExplrtr"
+"5";2;"S";0,255761750338049;88,5168288639343;58,0350557260279;"biomass_interpolated";"evi, savi, dvi, gndvi, grvi, sr_nirr";"perMonth"
+"6";3;"SCH";0,437745348885597;134,710941356117;37,0361208517199;"biomass_interpolated";"evi, savi, dvi, gndvi, grvi, sr_nirr";"perExplrtr"
