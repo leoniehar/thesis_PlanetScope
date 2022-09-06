@@ -1,5 +1,3 @@
-# thesis.github.io
-
 ## FOLDER "scripts of random forest models"
 the folder includes the following scripts:
 > general disclaimer: scripts of 'biomass interpolated' have nicer, more extensive comments
