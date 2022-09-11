@@ -1,5 +1,4 @@
 ## FOLDER "scripts of random forest models"
-the folder includes the following scripts:
 > general disclaimer: scripts of 'biomass interpolated' have nicer, more extensive comments
 ### some abbrevations etc.
 - if 'layer' or 'timestep' is used somewhere it reffers to 'mosaic'
@@ -11,6 +10,7 @@ the folder includes the following scripts:
 > - bio, Bio = biomass
 > - interpolated_biomass, inter, bio_inter = biomass_interpolated
 
+### the folder includes the following scripts:
 ### 01_prepro
 - preprocessing of field data set, joining with PlanetScope data, scaling PlanetScope data, Vegetation indice calculation
 - output is "all_reduced.csv" which was used in the scripts of the actual models
