@@ -4,7 +4,7 @@
 - SEBAS_FieldDATA_2020-2021-30032022 = Field data (provided by SEBAS)
 - sat_data_mosaic = extracted pixel values from PlanetScope mosaics
 - all = joined field and satellite data incl. different columns from preprocessing 
-- *all_reduced* *=* *final data used in the models* (selection of columns from "all.csv")
+- **all_reduced = final data used in the models** (selection of columns from "all.csv")
 
 ### extract_pixel_values_gpkgs
 #### quadrats
