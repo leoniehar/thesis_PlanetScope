@@ -19,9 +19,11 @@
 - sat_data_mosaic = extracted pixel values that were then exported as csv file to "sat_data_mosaic" (join of var1_clean and var2_clean)
 
 ### FOLDER Mosaics_PlanetScope
+- https://uni-bonn.sciebo.de/s/8kOpqRkj2TfpPTa pw: thesis_PlanetScope
 - Mosaics created per timestamp of PlanetScope images (©PlanetScope)
 - In "Overview_metadata_Planet" are listed all scenes with their metadata info
 - all scenes of the same Exploratory and same timestamp (see in column "path") were used for a mosaic
+
 
 ### FOLDER mappen
 - results of mapping some of the final models
